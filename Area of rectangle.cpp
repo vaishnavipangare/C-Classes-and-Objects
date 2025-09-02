@@ -1,7 +1,7 @@
-//EXPERIMENT 11
-//VAISHNAVI PANGARE
-//ENTC A3
-//25070123501
+// EXPERIMENT 11
+// VAISHNAVI PANGARE
+// ENTC A3
+// 25070123501
 //Problem Statement- Write a codde to find area of rectangle using a class and method.
 
 
